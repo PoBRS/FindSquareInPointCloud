@@ -1,0 +1,25 @@
+Raphaël Sylvain
+
+25 mars 2014	Début du projet. Affichage d'un carré						2h
+28 mars 2014	Début de l'algo de recherche de carré						3h
+01 avril 2014	Fin de l'algo de recherche de carré						2h
+04 avril 2014	Travail sur l'affichage des points. Changement dans l'algo de recherche.	3h
+05 avril 2014	Changement radical de la façon de trouver des rectangles. Avec set.		6h
+06 avril 2014	Travail sur la recherche avec l'aide d'un multiset.				2h
+08 avril 2014	Travail sur le find du multiset pour avoir un jeu de précision			3h
+10 avril 2014	Changement pour l'utilisation d'un pointeur de fonction.			2h
+12 avril 2014	Retour sur une version précédente. Travail sur l'algo de recherche.		4h
+14 avril 2014	Affichage des bonus. Réparation des leaks. Documentations final.		7h
+
+Pierre-Olivier Boulet
+
+25 mars 2014	Début du projet. Affichage d'un carré						2h
+28 mars 2014	Début de l'algo de recherche de carré						3h
+01 avril 2014	Fin de l'algo de recherche de carré						2h
+04 avril 2014	Changement dans l'algo de recherche.						3h
+06 avril 2014	Travail sur la recherche avec l'aide d'un multiset.				2h
+08 avril 2014	Travail sur le find du multiset pour avoir un jeu de précision			3h
+11 avril 2014	Recherche pour optimisation de la précision de la recherche de carrés.		4h
+12 avril 2014	Recherche pour optimisation de la précision de la recherche de carrés.		10h
+13 avril 2014	Séparation du projet en Data, Logic et UI					6h
+14 avril 2014	Fin de la séparation du projet en Data, Logic et UI.Documentation finale.	10h
